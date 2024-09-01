@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikash Kumar Yadav</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<!--<h3 align="center">A passionate software developer from India</h3>-->
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&duration=3000&color=2ecc71&center=true&vCenter=true&lines=Full+Stack+Developer;Software+Engineer;Programmer;" alt="Typing SVG" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash-kumar162&label=Profile%20views&color=0e75b6&style=flat" alt="vikash-kumar162" /> </p>
 
@@ -21,3 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikash-kumar162&show_icons=true&locale=en" alt="vikash-kumar162" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash-kumar162&" alt="vikash-kumar162" /></p>
+
+
+
