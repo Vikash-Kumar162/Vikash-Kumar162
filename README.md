@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash-kumar162&label=Profile%20views&color=2ecc71&style=flat" alt="vikash-kumar162" /> </p>
 
-- 🌱 I'm currently improving my problem-solving skills by solving coding questions on **Leetcode, GFG, and Contests on Leetcode and CodeChef**.
+- 🌱 I'm currently improving my problem-solving skills by solving coding questions on **Leetcode, GFG, and Contests on Leetcode & CodeChef**.
 
 - 🌱 And also I'm exploring backend development through projects using **MongoDB, Node.js, and Express.js**.
 
-- 💬 Ask me about **Data Structures, Algorithms, MERN Stack, & OOPS**.
+- 💬 Ask me about **Data Structures, Algorithms, MERN Stack Web Development**.
 
 - 📫 How to reach me **vikashkumary162@gmail.com**
 
