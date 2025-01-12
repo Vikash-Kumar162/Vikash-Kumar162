@@ -9,7 +9,7 @@
 
 - 🌱 I'm currently improving my problem-solving skills by solving coding questions on **Leetcode, GFG, and Contests on Leetcode & CodeChef**.
 
-- 🌱 And also I'm exploring backend development through projects using **MongoDB, Node.js, and Express.js**.
+- 🔭 I’m currently exploring backend development through projects using **MongoDB, Node.js, and Express.js**.
 
 - 💬 Ask me about **Data Structures, Algorithms, MERN Stack Web Development**.
 
